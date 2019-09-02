@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+Please checkout my app on iOS AppStore 
+
+https://apps.apple.com/app/id1477994713
+
 
 ### More Information
 
