@@ -4,6 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+  {{site.data.alerts.note}} {{post.excerpt}} {{site.data.alerts.end}}
     {% unless post.excerpt == "" %}
     <article class="post">
 
