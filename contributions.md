@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  4   | <a href = 'https://github.com/hunter-college-ossd-fall-2019/R-Ligier-weekly/pull/3'></a>   | Blog Edit    |   Fixed Spelling and Grammar mistakes   |
+|  4   | <a href = 'https://github.com/hunter-college-ossd-fall-2019/R-Ligier-weekly/pull/3'>Link</a>   | Blog Edit    |   Fixed Spelling and Grammar mistakes   |
 |     |     |     |      |
 |     |     |     |      |
