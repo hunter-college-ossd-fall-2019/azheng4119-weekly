@@ -20,7 +20,7 @@ Replace the first row below with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  4   | <a href = 'https://github.com/hunter-college-ossd-fall-2019/R-Ligier-weekly/pull/3'>R-Ligier's Blog</a>   | Blog Edit    |   Fixed Spelling and Grammar mistakes   |
-|     |     |     |      |
+|   5  | <a href = 'https://www.openstreetmap.org/changeset/74403697#map=13/40.7601/-73.9668'> OpenStreetMap </a>    |  OpenStreetMap   |   Updated work place hours  |
 |     |     |     |      |
 
 
