@@ -23,5 +23,5 @@ Replace the first row below with your contribution.
 |   5  | <a href = 'https://www.openstreetmap.org/changeset/74403697#map=13/40.7601/-73.9668'> OpenStreetMap </a>    |  OpenStreetMap   |   Updated work place hours  |
 |  8   |  <a href = 'https://github.com/hunter-college-ossd-fall-2019/hjiang4332-weekly/pull/3'>Hjiang4332's Blog</a>|  Blog Edit   |   Fixed links for readability   |
 | 9 | <a href = 'https://www.openstreetmap.org/changeset/76276932'>OpenStreetMap </a> | OpenStreetMap | Added Yoga studio near my house |
-
+| 10 | <a href = 'https://www.openstreetmap.org/changeset/76277049#map=19/40.62380/-74.00408'> OpenStreetMap </a> | OpenStreetMap | Added Deli |
 
