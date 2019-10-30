@@ -26,5 +26,5 @@ Replace the first row below with your contribution.
 | 9| <a href = 'https://www.openstreetmap.org/changeset/76277049#map=19/40.62380/-74.00408'> OpenStreetMap </a> | OpenStreetMap | Added Deli |
 | 10 | <a href = 'https://www.openstreetmap.org/changeset/76280837'> OpenStreetMap </a> | OpenStreetMap | Added Pizzaria |
 | 10 | <a href = 'https://www.openstreetmap.org/changeset/76280878'> OpenStreetMap </a> | OpenStreetMap | Added Sushi Resturant |
-|10 | <a href = 'https://github.com/osmlab/name-suggestion-index/pull/3220'> Name suggestion Index </a> | NSI | Added West Marine Store | 
+|10 | <a href = 'https://github.com/osmlab/name-suggestion-index/pull/3220'> Name suggestion Index </a> | Project | Added West Marine Store | 
 
