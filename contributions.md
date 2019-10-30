@@ -24,7 +24,7 @@ Replace the first row below with your contribution.
 | 7 | <a href = 'https://www.openstreetmap.org/changeset/76276932'>OpenStreetMap </a> | OpenStreetMap | Added Yoga studio near my house |
 |  8   |  <a href = 'https://github.com/hunter-college-ossd-fall-2019/hjiang4332-weekly/pull/3'>Hjiang4332's Blog</a>|  Blog Edit   |   Fixed links for readability   |
 | 9| <a href = 'https://www.openstreetmap.org/changeset/76277049#map=19/40.62380/-74.00408'> OpenStreetMap </a> | OpenStreetMap | Added Deli |
-| 10 | <a href = 'https://www.openstreetmap.org/changeset/76280837'> OpenStreetMap </a> | OpenStreetMap | Added Pizzaria |
-| 10 | <a href = 'https://www.openstreetmap.org/changeset/76280878'> OpenStreetMap </a> | OpenStreetMap | Added Sushi Resturant |
-|10 | <a href = 'https://github.com/osmlab/name-suggestion-index/pull/3220'> Name suggestion Index </a> | Project | Added West Marine Store | 
+| 9 | <a href = 'https://www.openstreetmap.org/changeset/76280837'> OpenStreetMap </a> | OpenStreetMap | Added Pizzaria |
+| 9 | <a href = 'https://www.openstreetmap.org/changeset/76280878'> OpenStreetMap </a> | OpenStreetMap | Added Sushi Resturant |
+| 9 | <a href = 'https://github.com/osmlab/name-suggestion-index/pull/3220'> Name suggestion Index </a> | Project | Added West Marine Store | 
 
