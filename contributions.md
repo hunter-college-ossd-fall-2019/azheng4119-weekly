@@ -29,3 +29,4 @@ Replace the first row below with your contribution.
 | 9 | <a href = 'https://github.com/osmlab/name-suggestion-index/pull/3220'> Name suggestion Index </a> | Project | Added West Marine Store | 
 | 10 | [Name Suggestion Index](https://github.com/osmlab/name-suggestion-index/pull/3268) | Project | Added Bapco |
 | 11 | [Hunter College](https://en.wikipedia.org/w/index.php?title=Hunter_College&oldid=926049581) | Wikipedia | Tau Sculpture Note |
+| 11 | [Mixer](https://en.wikipedia.org/w/index.php?title=Mixer_(service)&oldid=926050760) | Wikipedia | Added a link to see also |
