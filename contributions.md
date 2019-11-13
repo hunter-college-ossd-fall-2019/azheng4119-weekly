@@ -28,3 +28,4 @@ Replace the first row below with your contribution.
 | 9 | <a href = 'https://www.openstreetmap.org/changeset/76280878'> OpenStreetMap </a> | OpenStreetMap | Added Sushi Resturant |
 | 9 | <a href = 'https://github.com/osmlab/name-suggestion-index/pull/3220'> Name suggestion Index </a> | Project | Added West Marine Store | 
 | 10 | [Name Suggestion Index](https://github.com/osmlab/name-suggestion-index/pull/3268) | Project | Added Bapco |
+| 11 | [Hunter College](https://en.wikipedia.org/w/index.php?title=Hunter_College&oldid=926049581) | Wikipedia | Tau Sculpture Note |
