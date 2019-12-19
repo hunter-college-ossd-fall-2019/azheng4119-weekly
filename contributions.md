@@ -33,3 +33,4 @@ Replace the first row below with your contribution.
 | 12 | [Name Suggestion Index](https://github.com/osmlab/name-suggestion-index/pull/3391) | Project | Added John L. Scott |
 | 12 | [OSRS](https://en.wikipedia.org/w/index.php?title=Old_School_RuneScape&oldid=927189576) | Wikipedia | Updated Description | 
 | 12 | [Hunter College](https://en.wikipedia.org/w/index.php?title=Hunter_College&oldid=927195052) | Wikipedia | Added Silberman School |
+| 13 | [Name suggestion Index](https://github.com/osmlab/name-suggestion-index/issues/3375) | OpenStreetMap | Dark Mode Support | 
